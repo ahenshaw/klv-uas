@@ -18,7 +18,7 @@ pub const UAS_LOCAL_SET_UNIVERSAL_LABEL: [u8; 16] = [
 
 #[derive(Clone, Debug)]
 pub struct KlvPacket {
-    fields: Vec<Klv>,
+    pub fields: Vec<Klv>,
 }
 
 impl KlvPacket {
