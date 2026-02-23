@@ -7,7 +7,7 @@
 [![Crates.io License](https://img.shields.io/crates/l/klv-uas)](../LICENSE)
 
 A library for extracting KLV data from transport stream packet payloads. This library is not
-indented to be used for injecting KLV data into video streams.
+intended to be used for injecting KLV data into video streams.
 
 ## Example
 
